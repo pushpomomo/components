@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer{
+/*  background-color: green;*/
+  margin-bottom: 10px;
+}
+.box{
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: red;
+  font-size: 30px;
+  color: white;
+}
+.btn_custom{
+  background-color: black;
+  color: white;
+}
+.btn_custom:hover{
+  background-color: darkblue;
+  color: white;
+}
